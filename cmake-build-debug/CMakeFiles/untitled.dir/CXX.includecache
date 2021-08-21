@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/petrm/CLionProjects/untitled/MyTable.cpp
+MyTable.h
+C:/Users/petrm/CLionProjects/untitled/MyTable.h
+
+C:/Users/petrm/CLionProjects/untitled/MyTable.h
+iostream
+-
+vector
+-
+typeinfo
+-
+string
+-
+algorithm
+-
+
+C:/Users/petrm/CLionProjects/untitled/main.cpp
+MyTable.h
+C:/Users/petrm/CLionProjects/untitled/MyTable.h
+chrono
+-
+algorithm
+-
+vector
+-
+string
+-
+iostream
+-
+fstream
+-
+typeinfo
+-
+
