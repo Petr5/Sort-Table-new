@@ -53,6 +53,7 @@ int main(){
 
         std::string path = "C:\\Users\\petrm\\Documents\\SortTemplate\\csv files\\student " + std::to_string(index) + ".csv";
         std::cout << path << std::endl;
+        //some changes, which i want to see in my repository
 
         fin.open(path, std::ios::in);
         std::vector<std::vector<string>> table;
